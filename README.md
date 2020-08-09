@@ -1,9 +1,11 @@
-  # Today I Learned (TIL)
+  # Today I Learned 
 
-- 꾸준히 하는 습관을 기르기 위해 TIL 을 시작 합니다. (잔디 도전🔥)
+- 오늘 공부한 것을 정리한다.
 
-- 간단하게 형식없이 기록 할 예정입니다.
 
-- 상세한 학습내용은 Notion / velog 블로그 / 노트에 필기
 
-  https://velog.io/@pc_suzi
+# 작성 규칙
+
+- 문서는 .md 파일로 저장한다.
+- Github : 과목 단위로 정리
+- Notion : 하루 단위로 정리
